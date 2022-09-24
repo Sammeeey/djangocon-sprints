@@ -21,7 +21,7 @@ The goals is to get Django source code and be able to run the test suite.
 
 1. Fork the main [django/django](https://github.com/django/django) repo on GitHub
 2. `git clone` your fork. — You've now got Django's source code on your laptop. 💃
-3. Create a virtual environment.
+3. Create a virtual environment & activate it.
 4. Install Django as _editable_: `pip install -e .`
 5. Run the tests. `./runtests.py`
 
